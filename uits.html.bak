@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>University of Information Technology and Sciences</title>
+    <link href="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/e3bbcd98e9.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap"
+        rel="stylesheet">
+</head>
+
+</html>
+
+<body>
+    <!-- top-bar starts -->
+    <section>
+
+        <div class="top-bar pt-3">
+            <div>
+                <p><i class="fa-solid fa-location-dot"></i> Holding 190, Road 5, Block J, Baridhara, Maddha
+                    Nayanagar,
+                    Vatara, Dhaka-1212</p>
+            </div>
+            <div class="top-bar-second">
+                <a href="info@uits.edu.bd"><i class="fa-solid fa-envelope"></i> info@uits.edu.bd &nbsp</a>
+                <a href="tel:"> &nbsp<i class="fa-solid fa-phone"></i>09678008487</a>
+            </div>
+        </div>
+
+    </section>
+    <!-- top-bar-ends -->
+
+    <!-- navbar starts -->
+    <section>
+        <nav class="navbar navbar-expand-lg navbar-light mt-2 p-3 container">
+            <a class="navbar-brand" href="#"> University <strong><small><br>of
+                        Information Technology and
+                        Sciences</strong></small></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse d-flex justify-content-end mx-5 text-uppercase"
+                id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                       
+<div class="dropdown">
+  <a class="btn dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Admission
+  </a>
+
+  <ul class="dropdown-menu">
+<li><a class="dropdown-item" href="#">Admission Information</a></li>
+<li><hr class="dropdown-divider"></li>
+    <li><a class="dropdown-item" href="https://uits.edu.bd/undergraduate-programs/"target="_blank">Undergraduate Program</a></li>
+    <li><a class="dropdown-item" href="https://uits.edu.bd/graduate-programs/"target="_blank">Graduate Program</a></li>
+    <li><a class="dropdown-item" href="https://uits.edu.bd/tuition-fees-2/"target="_blank">Tution Fee</a></li>
+<li><a class="dropdown-item" href="http://admission.uits.edu.bd/Admission/Home"target="_blank">Apply Online</a></li>
+  </ul>
+</div>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <div class="dropdown">
+  <a class="btn dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Academics
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Faculty of Science and Engineering</a></li>
+<li><hr class="dropdown-divider"></li>
+    <li><a class="dropdown-item" href="https://uits.edu.bd/department-of-civil-engineering/"target="_blank">Civil Engineering</a></li>
+    <li><a class="dropdown-item" href="https://uits.edu.bd/department-of-electrical-electronic-engineering/"target="_blank">Electrical & Electronic Engineering</a></li>
+<li><a class="dropdown-item" href="https://uits.edu.bd/department-of-computer-science-engineering/"target="_blank">Computer Science & Engineering</a></li>
+<li><a class="dropdown-item" href="https://uits.edu.bd/department-of-information-technology/"target="_blank">Information Technology</a></li>
+<li><hr class="dropdown-divider"></li>
+<li><a class="dropdown-item" href="#">Others</a></li>
+<li><hr class="dropdown-divider"></li>
+<li><a class="dropdown-item" href="https://uits.edu.bd/department-of-english/"target="_blank">English</a></li>
+<li><a class="dropdown-item" href="https://uits.edu.bd/department-of-law/"target="_blank">Law</a></li>
+<li><a class="dropdown-item" href="https://uits.edu.bd/department-of-business-studies/"target="_blank">Business studies</a></li>
+  </ul>
+</div>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <div class="dropdown">
+  <a class="btn  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Faculty
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Faculty of Science and Engineering</a></li>
+    <li><a class="dropdown-item" href="#">Civil Engineering</a></li>
+    <li><a class="dropdown-item" href="#">Electrical & Electronic Engineering</a></li>
+<li><a class="dropdown-item" href="#">Computer Science & Engineering</a></li>
+<li><a class="dropdown-item" href="#">Information Technology</a></li>
+<li><a class="dropdown-item" href="#">Pharmacy</a></li>
+<li><a class="dropdown-item" href="#">English</a></li>
+  </ul>
+</div>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <div class="dropdown">
+  <a class="btn  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Administrator
+  </a>
+
+  <ul class="dropdown-menu">
+<li><a class="dropdown-item" href="#">UITS Officials</a></li>
+<li><hr class="dropdown-divider"></li>
+    <li><a class="dropdown-item" href="#">Board of Trusties Office</a></li>
+    <li><a class="dropdown-item" href="#">Vice Chancellor's Office</a></li>
+    <li><a class="dropdown-item" href="#">Pro VC's Office</a></li>
+<li><a class="dropdown-item" href="#">Treasurer's Office</a></li>
+<li><a class="dropdown-item" href="#">Registrar's Office</a></li>
+<li><a class="dropdown-item" href="#">Controller of EXAM's Office</a></li>
+<li><a class="dropdown-item" href="#">Dean's Office</a></li>
+<li><a class="dropdown-item" href="#">Proctor's Office</a></li>
+<li><a class="dropdown-item" href="#">Student's welfare Office</a></li>
+  </ul>
+</div>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                       <div class="dropdown">
+  <a class="btn  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    My UITS
+  </a>
+
+  <ul class="dropdown-menu">
+<li><a class="dropdown-item" href="#">For Students</a></li>
+<li><hr class="dropdown-divider"></li>
+    <li><a class="dropdown-item" href="http://ucam.uits.edu.bd/Security/LogIn.aspx"target="_blank">UCAM</a></li>
+    <li><a class="dropdown-item" href="#">UITS Library</a></li>
+    <li><a class="dropdown-item" href="#">Alumni</a></li>
+<li><a class="dropdown-item" href="#">Social Network</a></li>
+<li><a class="dropdown-item" href="#">Bus Schedule</a></li>
+<li><a class="dropdown-item" href="#">Academic Calendar 2022</a></li>
+  </ul>
+</div>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <div class="dropdown">
+  <a class="btn  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    About UITS
+  </a>
+
+  <ul class="dropdown-menu">
+<li><a class="dropdown-item" href="#">UITS</a></li>
+<li><hr class="dropdown-divider"></li>
+    <li><a class="dropdown-item" href="#">History</a></li>
+    <li><a class="dropdown-item" href="#">Vision & Mission</a></li>
+    <li><a class="dropdown-item" href="#">News Letter</a></li>
+<li><a class="dropdown-item" href="#">Press & Media</a></li>
+  </ul>
+</div>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </section>
+    <!-- navbar ends -->
+
+    <!-- carousel starts -->
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="1.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="19-annivesary-1.jpeg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="86857584_3001175929947980_7879926689235468288_o.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    </section>
+    <!-- carousel ends -->
+
+    <!-- box info starts -->
+    <div class="info-box-contain container">
+        <div class="first-box p-5">
+            <h1>PROGRAMS</h1>
+            <p>UITS added the latest education system to its curriculum to developing the knowledge and skills of the
+                students as well as integrated human values in the education system. UITS is a science and technological
+                knowledge-based center that provides marketable skills for younger generations who may be gainfully
+                employed both national and international organizations.</p>
+        </div>
+        <div class="second-box p-5">
+            <h1>AFFORDABILITY</h1>
+            <p>Merit based scholarships ‘Special Waiver’ can be extended to the students who seek admission in
+                postgraduate programs (MBA/MSS/M.Sc. in Telecommunications Engineering/M.Sc. in CSE/LLM/MA in English,
+                etc.) based on CGPA obtained in Bachelor/ Hons. /equivalent degrees.</p>
+        </div>
+        <div class="third-box p-5">
+            <h1>CERTIFICATION</h1>
+            <p>UITS forms a community of Bangladesh's brightest minds and most committed educators; and create
+                opportunities for them to meet their academic and human potential. We believe in open and respectful
+                interaction with students, and among its staff at all levels.
+            </p>
+        </div>
+    </div>
+    <!-- box info ends -->
+
+    <!-- intro starts -->
+    <div class="intro container p-2">
+        <h1>Welcome To UITS</h1>
+        <p class="p-2">University of Information Technology and Sciences (UITS), the first IT-based private university
+            in
+            Bangladesh was founded on 7 August 2003 as a non-profit organization. INFORMATION SCIENCE AND TECHNOLOGY
+            SOLUTION LTD. (ISTS), a concern of PHP group headed by Alhaj Sufi Mohamed Mizanur Rahman Chowdhury is the
+            sponsor of UITS.</p>
+    </div>
+    <!-- intro ends -->
+
+    <!-- sufi sir banner start -->
+    <div class="banner ">
+        <div>
+            <img class="image" src="Dreamer-761x1024.jpg" alt="">
+
+        </div>
+        <div>
+            <h2 class="banner-text">Divine Blessings,mixed with Hard-Work, backed by Good Intention... make Miracles.
+            </h2>
+        </div>
+    </div>
+    <!-- sufi sir banner ends -->
+
+    <div class="tour-section container">
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/FzIjOVv0BxQ"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+        </div>
+        <div class="tour-section-text">
+            <p>DISCOVER MORE ABOUT US</p>
+            <h2>Take a tour</h2>
+            <h5>As the first IT-based private university, UITS is playing an important role in the field of information
+                technology and innovative technology. Considering the noble task in distributing knowledge, UITS have
+                worked with the attitude of service to create skilled human resources. </h5>
+            <p>Beautiful campus environment,
+                study and research opportunities, co-curricular activities, industrial tour etc., have given new height
+                to UITS. Intensive monitoring and friendly conduct to every student of UITS is playing a significant
+                role in the development of student intellectual level. And for this reason, UITS is the first priority
+                for all undergraduate students.</p>
+            <button type="button" class="btn btn-primary">Read More</button>
+        </div>
+    </div>
+    <!-- latest news starts -->
+    <div class="news-header">
+        <div>
+            <p>OUR LATEST NEWS</p>
+        </div>
+        <div>
+            <h2>Latest News</h2>
+        </div>
+    </div>
+
+
+
+    <div class="news-main ">
+        <div class="card" style="width: 18rem;">
+            <img src="বিনয়-সাফল্যের-চূড়ায়-আরোহণ-করার-অন্যতম-নিয়ামক-1200x480.webp" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">বিনয় সাফল্যের চূড়ায় আরোহণ করার অন্যতম নিয়ামক</p>
+                <a href="https://uits.edu.bd/%e0%a6%ac%e0%a6%bf%e0%a6%a8%e0%a6%af%e0%a6%bc-%e0%a6%b8%e0%a6%be%e0%a6%ab%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a7%82%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%86/"target="_blank" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img src="ইউআইটিএসে-ইউসেক-শর্টপিচ-ক্রিকেট-টুর্নামেন্টের-উদ্বোধন-1200x480.webp" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">ইউআইটিএসে ইউসেক শর্টপিচ ক্রিকেট টুর্নামেন্টের উদ্বোধন</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img src="12_103.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">শিক্ষায় স্বপ্ন ও সাধ্যের সমন্বয় সাধনের লক্ষ্যে ইউআইটিএস প্রতিষ্ঠা করেন সুফি মোহাম্মদ মিজানুর রহমান</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img src="সিএসই-বিভাগের-1200x480.webp" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">ইউআইটিএস সিএসই বিভাগের শরৎকালীন ফ্রেশার রিসিপশন অনুষ্ঠিত হয়েছে</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+    <a href="#" class="news-button btn btn-primary">Read More</a>
+
+    <a href="https://uits.edu.bd/notice/" class="notification btn btn-primary">
+        <span>Notices</span>
+        <span class="badge">5</span>
+      </a>
+
+    <!-- latest news ends -->
+
+    <!-- info-banner starts -->
+    <div class="info-banner">
+        <div>
+            <h1>2003</h1>
+            <h3>YEAR FOUNDED</h3>
+        </div>
+
+        <div>
+            <h1>200</h1>
+            <h3>QUALIFIED TEACHERS</h3>
+        </div>
+
+        <div>
+            <h1>10000+</h1>
+            <h3>GRADUATED STUDENTS</h3>
+        </div>
+
+        <div>
+            <h1>100</h1>
+            <h3>AWARDS WINNER</h3>
+        </div>
+
+    </div>
+    <!-- info-banner-ends -->
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+</body>
+<footer class="final-footer mt-5 pb-3 pt-3">
+    © 2022 University of Information Technology & Sciences (UITS). All Rights Reserved.
+    Developed and maintained by Group F
+</footer>
+
+</html>
